@@ -6,7 +6,7 @@ Este é um projeto criado para a aula de programação no qual desenvolve o jogo
 
 ## Stack utilizada
 
-**Front-end:** HTML, CSS, Javascript
+**Front-end:** HTML, CSS, JavaScript
 
 
 ## Autores
